@@ -9,7 +9,7 @@ const Header = () => {
     }`;
 
   return (
-    <nav className="border-b bg-pink-900 shadow-sm">
+    <nav className="border-b bg-gray-800 shadow-sm">
       <div className="max-w-7xl mx-auto px-4 md:px-8">
         
         <div className="flex items-center justify-center min-h-16">
@@ -19,19 +19,19 @@ const Header = () => {
             
             <li>
               <NavLink to="/" className={navLinkClass}>
-                Home
+                HOME
               </NavLink>
             </li>
 
             <li>
               <NavLink to="/achievement" className={navLinkClass}>
-                Achievement
+                JOURNEY
               </NavLink>
             </li>
 
             <li>
               <NavLink to="/contact" className={navLinkClass}>
-                Contact
+                CONTACT
               </NavLink>
             </li>
 
