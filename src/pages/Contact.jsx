@@ -25,21 +25,21 @@ const Contact = () => {
 
                 {/* Contact Info */}
                 <div className="grid grid-cols-1 md:grid-cols-3 gap-6 mt-12 sm:mt-16">
-                    <div className="rounded-2xl border-3 border-emerald-700/40 bg-white/70 p-6 text-center shadow-md hover:shadow-lg transition-shadow">
+                    <div className="rounded-2xl border-3 border-emerald-700/60 bg-white/70 p-6 text-center cursor-pointer shadow-md hover:shadow-lg transition-shadow">
                         <div className="text-3xl mb-4">📍</div>
                         <h3 className="font-serif font-bold text-emerald-950 mb-2 text-lg">Address</h3>
                         <p className="text-emerald-800 text-sm leading-relaxed font-medium">
                             Pathaliya, Jamalpur<br />Bangladesh
                         </p>
                     </div>
-                    <div className="rounded-2xl border-3 border-emerald-700/40 bg-white/70 p-6 text-center shadow-md hover:shadow-lg transition-shadow">
+                    <div className="rounded-2xl border-3 border-emerald-700/60 bg-white/70 p-6 text-center cursor-pointer shadow-md hover:shadow-lg transition-shadow">
                         <div className="text-3xl mb-4">📱</div>
                         <h3 className="font-serif font-bold text-emerald-950 mb-2 text-lg">Phone</h3>
                         <p className="text-emerald-800 text-xl">
-                            +880 1840712806<br />
+                            +880 1726103907<br />
                         </p>
                     </div>
-                    <div className="rounded-2xl border-3 border-emerald-700/40 bg-white/70 p-6 text-center shadow-md hover:shadow-lg transition-shadow">
+                    <div className="rounded-2xl border-3 border-emerald-700/60 bg-white/70 p-6 text-center cursor-pointer shadow-md hover:shadow-lg transition-shadow">
                         <div className="text-3xl mb-4">📧</div>
                         <h3 className="font-serif font-bold text-emerald-950 mb-2 text-lg">Email</h3>
                         <p className="text-emerald-800 text-xl leading-relaxed font-medium">

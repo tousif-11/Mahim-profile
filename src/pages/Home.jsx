@@ -30,38 +30,39 @@ const Home = () => {
               </h1>
 
               <p className="text-base sm:text-lg leading-8 sm:leading-9 text-justify text-amber-950 font-medium tracking-[0.02em]">
-                My name is Abdullah Al Mahim. I was born on September 28, 2002, in
+                I am Abdullah Al Mahim (যুগ্ম সাধারণ সম্পাদক — জামালপুর জেলা
+                ছাত্রদল). I was born on October 29, 2002, in
                 Pathaliya,Jamalpur,Bangladesh. From an early age, I have been
-                interested in building strong relationships with people, standing
-                beside members of my community, and taking responsibility for the
-                people around me. Since 2015, I have been associated with the
-                Bangladesh National Party (BMP) as a dedicated party worker. Through
-                my long journey with the organization, I have gained valuable
-                experience in teamwork, discipline, communication, organizational
-                activities, and carrying out responsibilities with sincerity.
+                interested in building strong relationships with people,
+                standing beside members of my community, and taking
+                responsibility for the people around me. Since 2015, I have been
+                associated with the Bangladesh National Party BMP as a Joint
+                General Secretary. Through my long journey with the
+                organization, I have gained valuable experience in teamwork,
+                discipline, communication, organizational activities, and
+                carrying out responsibilities with sincerity.
                 <br />
                 <br />
                 One of the greatest inspirations in my political journey is my
-                father. He is a dedicated and hardworking political worker, and from
-                him I have learned the importance of commitment, patience, courage,
-                hard work, and standing beside people during difficult times. His
-                dedication has encouraged me to become more responsible and
-                committed to my own duties. I believe that true leadership is not
-                simply about holding a position or having a title. Real leadership
-                is built through trust, respect, responsibility, and the ability to
-                listen to people and work with them.
+                father Arif Hossain Bahaz (সাংগঠনিক সম্পাদক - জেলা বিএনপি
+                জামালপুর). His dedication has encouraged me to become more
+                responsible and committed to my own duties. I believe that true
+                leadership is not simply about holding a position or having a
+                title. Real leadership is built through trust, respect,
+                responsibility, and the ability to listen to people and work
+                with them.
                 <br />
-                <br />
-                I am fortunate to have many friends and well-wishers who respect me
-                and support me in different situations. I also value their opinions
-                and believe that cooperation and mutual respect are essential
-                qualities of a good leader. My goal is to continue developing
-                myself as an honest, responsible, people-oriented, and principled
-                political worker. I want to contribute positively to society,
-                uphold the values of respect and responsibility, and perform my
-                organizational duties with dedication and sincerity. I believe that
-                with hard work, discipline, and commitment, I can continue to make a
-                meaningful contribution to the people and the organization I serve.
+                <br />I am fortunate to have many friends and well-wishers who
+                respect me and support me in different situations. I also value
+                their opinions and believe that cooperation and mutual respect
+                are essential qualities of a good leader. My goal is to continue
+                developing myself as an honest, responsible, people-oriented,
+                and principled political worker. I want to contribute positively
+                to society, uphold the values of respect and responsibility, and
+                perform my organizational duties with dedication and sincerity.
+                I believe that with hard work, discipline, and commitment, I can
+                continue to make a meaningful contribution to the people and the
+                organization I serve.
               </p>
             </div>
           </div>
